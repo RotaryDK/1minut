@@ -1,4 +1,7 @@
 site_name: Rotary Danmark - 1 Minut
+repo_url: https://github.com/RotaryDK/1minut
+repo_name: RotaryDK/1minut
+edit_uri: edit/main/src/docs/
 theme:
   name: 'material'
   logo: images/logo.png
@@ -9,6 +12,8 @@ theme:
     - navigation.indexes
     - toc.integrate
     - navigation.top
+    - content.action.edit
+    - content.action.view
   icon:
     admonition:
       note: octicons/tag-16
