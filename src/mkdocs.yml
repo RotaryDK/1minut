@@ -39,3 +39,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
   - Hjem: index.md
+  - Indhold: indhold.md
