@@ -1,7 +1,7 @@
 site_name: Rotary Danmark - 1 Minut
 repo_url: https://github.com/RotaryDK/1minut
 repo_name: RotaryDK/1minut
-edit_uri: edit/main/src/docs/
+edit_uri: blob/main/src/docs/
 theme:
   name: 'material'
   logo: images/logo.png
