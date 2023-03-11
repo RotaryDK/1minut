@@ -45,3 +45,4 @@ markdown_extensions:
 nav:
   - Hjem: index.md
   - Indhold: indhold.md
+  - Magasiner: magasiner.md
