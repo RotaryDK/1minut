@@ -2,6 +2,20 @@
 
 ![Regionale magasiner](images/magasiner001.jpg){class="shadow-longer"} 
 
+!!! info "1 minut om Rotary er..."
+
+    Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
+    
+    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisa¬ti¬o¬nen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
+    
+    Serien er udarbejdet af Uddannelsesudvalget i Rotary Distrikt 1470 i 2020/21
+    
+    Redaktør: 
+    Jens Erik Rasmussen, dg1470-1213@rotary.dk
+    Med ekspertbistand fra Jens Otto Kjær Hansen, Dansk redaktør for Rotary Norden
+
+
+
 Alle medlemmer af Rotary skal ifølge Rotarys grundlov abonnere på et Rotary-magasin så længe medlemskabet består. På den måde informeres vi om hvad Rotary sysler med. Ifølge samme lov beslutter hver klub hvilket magasin medlemmerne skal modtage og sørger for at betale afgiften til det valgte magasin for medlemmerne. Danmark har valgt **Rotary Norden** til magasin.
 
 Magasinernes opgave er at om-tale Rotarys aktiviteter i det område hvor de udkommer og bringe ”pligtstof” fra det officielle Rotary Magazine og Rotary i øvrigt. Således fører RI tilsyn med magasinernes indhold og pris. Visse af de regionale magasiner udgives af kommercielle selskaber med ansatte medarbejdere. Nogle – heriblandt Rotary Norden – drives af rotarianere i samarbejde med professionelle leverandører. 
