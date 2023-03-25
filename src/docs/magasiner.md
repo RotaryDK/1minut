@@ -2,7 +2,7 @@
 
 ![Regionale magasiner](images/magasiner001.jpg){class="shadow-longer"} 
 
-!!! info "1 minut om Rotary er..."
+!!! note "1 minut om Rotary er..."
 
     Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
     
