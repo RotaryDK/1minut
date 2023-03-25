@@ -15,6 +15,8 @@
     Med ekspertbistand fra Jens Otto Kjær Hansen, Dansk redaktør for Rotary Norden
 
 
+<a href=https://help.rotary.dk/pdf-versioner/Oprettelsesskema_nye_medlemmer-formular.pdf target=_blank>PDF version kan downloades ved at klikke her</a>
+
 
 Alle medlemmer af Rotary skal ifølge Rotarys grundlov abonnere på et Rotary-magasin så længe medlemskabet består. På den måde informeres vi om hvad Rotary sysler med. Ifølge samme lov beslutter hver klub hvilket magasin medlemmerne skal modtage og sørger for at betale afgiften til det valgte magasin for medlemmerne. Danmark har valgt **Rotary Norden** til magasin.
 
