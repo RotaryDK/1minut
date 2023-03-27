@@ -21,7 +21,7 @@
 Et grundlæggende spørgsmål som du sikkert ikke stiller dig så tit er: Hvorfor findes Rotary i det hele taget? Er det blot fordi Paul Harris fik en god idé i 1905?? Næppe. Uden en bærende idé eller et over¬ordnet formål med vores aktiviteter, ville Rotary næppe have eksisteret mere end 100 år
 Rotarys aktiviteter og mission er dikteret af vores vision for den verden vi gerne vil skabe. Visionen er et stærkt redskab når vi skal kommunikere til klubbens næste medlem hvad Rotary står for og vil lykkes med på langt sigt. Flere af de medlemmer vi får nu, har fokus på netop mening og formål, hvorfor visionen er et godt sted at påbegynde sin rejse med Rotary. 
 
-!!! Success "Rotarys vision"
+!!! Example "Rotarys vision"
 
     Sammen ser vi en verden hvor mennesker går sammen for at skabe langsigtede forandringer – på kloden, i vore lokalsamfund og i os selv
 
@@ -30,7 +30,7 @@ De som har været med i Rotary gennem længere tid vil kunne skrive under på, a
 Mens Rotary kun har haft en for-muleret vision i få år, er Rotarys mission ældre. Den beskriver nøgternt mange af de be¬gre¬ber som vi møder i dagligdagen med Rotary. En slags varedekla-ra¬tion på Rotary, kan man vel sige. 
 
 
-!!! Success "Rotarys mission"
+!!! Example "Rotarys mission"
 
     Vi tjener andre, fremmer hæderlighed, omverdens-forståelse, god vilje og fred gennem vort fællesskab af lederskikkelser og specialister fra erhvervs- og samfundsliv.
 
