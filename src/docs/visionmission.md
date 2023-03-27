@@ -1,6 +1,6 @@
 # Rotarys vision og mission
 
-![Regionale magasiner](images/vision001.jpg){class="shadow-longer"} 
+![Regionale magasiner](images/visionmission.jpg){class="shadow-longer"} 
 
 !!! note "1 minut om Rotary er..."
 
