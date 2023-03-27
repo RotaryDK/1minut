@@ -12,7 +12,6 @@
     
     Redaktør: 
     Jens Erik Rasmussen, dg1470-1213@rotary.dk
-    Med ekspertbistand fra Jens Otto Kjær Hansen, Dansk redaktør for Rotary Norden
 
 
 <a href=https://1minut.rotary.dk/pdf-versioner/1_minut_om_Rotary_Vision_og_Mission.pdf target=_blank>PDF version kan downloades ved at klikke her</a>
