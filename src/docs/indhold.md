@@ -5,7 +5,7 @@ På denne side kan du se en oversigt over de 1-minuts historier, der er udviklet
 - [1 minut om Rotary - vision og mission](visionmission.md)
 - [1 minut om Rotary - de regionale magasiner](magasiner.md)
 - [1 minut om Rotary - Council on legislation](col.md)
-- 1 minut om Rotary - Rotary adopterer 4-punkts prøven
+- [1 minut om Rotary - Rotary adopterer 4-punkts prøven](4punkt.md)
 - 1 minut om Rotary - hjulets historie
 - 1 minut om Rotary - kvinder i Rotary
 - 1 minut om Rotary - møderet for hele version
