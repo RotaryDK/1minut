@@ -1,5 +1,8 @@
 # Indhold
 
+![4 punktsprøven](images/indhold.jpg){class="shadow-longer"} 
+
+
 På denne side kan du se en oversigt over de 1-minuts historier, der er udviklet.
 
 - [1 minut om Rotary - vision og mission](visionmission.md)
