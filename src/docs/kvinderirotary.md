@@ -1,6 +1,6 @@
 # Kvinder i Rotary
 
-![4 punktsprøven](images/kvinderirotary.jpg){class="shadow-longer"} 
+![Kvinder i Rotary](images/kvinderirotary.jpg){class="shadow-longer"} 
 
 !!! note "1 minut om Rotary er..."
 
