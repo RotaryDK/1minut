@@ -5,6 +5,10 @@
 
 På denne side kan du se en oversigt over de 1-minuts historier, der er udviklet.
 
+
+Klik på den relevante historie for at få denne vist.
+
+
 - [1 minut om Rotary - vision og mission](visionmission.md)
 - [1 minut om Rotary - de regionale magasiner](magasiner.md)
 - [1 minut om Rotary - Council on legislation](col.md)
