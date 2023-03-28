@@ -18,7 +18,7 @@ Klik på den relevante historie for at få denne vist.
 - [1 minut om Rotary - møderet for hele verden](moederet.md)
 - [1 minut om Rotary - Rotary meget kort](rotarykort.md)
 - [1 minut om Rotary - Rotary og FN](rotaryogfn.md)
-- 1 minut om Rotary - Rotary Paul Harrins
+- [1 minut om Rotary - Rotary Paul Harrins](paulharris.md)
 - 1 minut om Rotary - Rotary skabes
 - 1 minut om Rotary - Rotarys fem tjenestegrene
 - 1 minut om Rotary - Rotarys første år
