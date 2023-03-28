@@ -36,3 +36,4 @@ Han sagde: "Rotary er et bevis på at folk med forskellig bag-grund kan lære at
 
 
 Ban Ki Moon og Undergeneral-sekretær Kiyotaka Akasaka, roste Rotary for at arbejde med FN’s “Millenium Development Goals” som sigter mod at ud-rydde fattigdom, sult, sygdom, analfabetisme og andre sociale og humanitære problemer i år 20015. Men der skal mere ar-bejde til, tilføjede Akasaka.
+
