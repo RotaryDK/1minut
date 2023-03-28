@@ -32,9 +32,9 @@ Som medlem af Rotary har man fri adgang til alle klubber i verden, hvilket betyd
 Stor og kompleks. Rotary er svær at forstå hurtigt. Essensen af organisationens virke formuleres således: 
 
 
-<strong>Join leaders, 
-exchange ideas,
-take action</strong>
+<center><strong>Join leaders,<br> 
+exchange ideas,<br>
+take action</strong><br></center>
 
 
 Noget i retning af ”Mød andre ildsjæle, udveksl ideer med dem og få noget til at ske”.
