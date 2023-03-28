@@ -16,7 +16,7 @@ Klik på den relevante historie for at få denne vist.
 - [1 minut om Rotary - hjulets historie](hjuletshistorie.md)
 - [1 minut om Rotary - kvinder i Rotary](kvinderirotary.md)
 - [1 minut om Rotary - møderet for hele verden](moederet.md)
-- 1 minut om Rotary - Rotary meget kort
+- [1 minut om Rotary - Rotary meget kort](rotarykort.md)
 - 1 minut om Rotary - Rotary og FN
 - 1 minut om Rotary - Rotary Paul Harrins
 - 1 minut om Rotary - Rotary skabes
