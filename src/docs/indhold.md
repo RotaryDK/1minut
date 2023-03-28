@@ -14,7 +14,7 @@ Klik på den relevante historie for at få denne vist.
 - [1 minut om Rotary - Council on legislation](col.md)
 - [1 minut om Rotary - Rotary adopterer 4-punkts prøven](4punkt.md)
 - [1 minut om Rotary - hjulets historie](hjuletshistorie.md)
-- 1 minut om Rotary - kvinder i Rotary
+- [1 minut om Rotary - kvinder i Rotary](kvinderirotary.md)
 - 1 minut om Rotary - møderet for hele version
 - 1 minut om Rotary - Rotary meget kort
 - 1 minut om Rotary - Rotary og FN
