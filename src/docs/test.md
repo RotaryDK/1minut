@@ -1,9 +1,9 @@
 # Test
 
 <table width=800>
-<tr>
+<tr bgcolor="#ff0000">
 <td>
-<img src="https://1minut.rotary.dk/src/docs/images/kvinderirotary.jpg" alt="Girl in a jacket" width="500" height="200">
+Dette er en test
 </td>
 </tr>
 
