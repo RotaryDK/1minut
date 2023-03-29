@@ -1,15 +1,15 @@
 # Test
 
-<table width="800">
-<tr bgcolor="#ff0000">
+<table width="1200">
+<tr bgcolor="#F6AA16">
 <td>
-Dette er en test
+Rotary gul
 </td>
 </tr>
 
-<tr bgcolor="#343399">
+<tr bgcolor="#0E458F">
 <td>
-Dette er en test2
+Rotary blå
 </td>
 </tr>
 </table>
