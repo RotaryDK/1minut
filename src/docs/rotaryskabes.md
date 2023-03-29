@@ -14,7 +14,7 @@
     Jens Erik Rasmussen, dg1470-1213@rotary.dk
 
 
-<a href=https://1minut.rotary.dk/pdf-versioner/1_minut_om_Rotary_Rotary_Paul_Harris.pdf target=_blank>PDF version kan downloades ved at klikke her</a>
+<a href=https://1minut.rotary.dk/pdf-versioner/1_minut_om_Rotary_Rotary_skabes.pdf target=_blank>PDF version kan downloades ved at klikke her</a>
 
 
 I 1896 bosatte Paul Harris sig i Chicago for at starte advokatpraksis. Da havde han været ”på valsen” i USA og Europa i fem år. År hvor han havde samlet på oplevelser og bekendtskaber og gjort sig erfaringer om livets vilkår for både rig og fattig. 
@@ -35,5 +35,5 @@ Gruppen, der snart begyndte at vokse, mødtes hver uge og de første møder gik 
 Udeblivelse blev straffet med en bøde på 50 cent og indtægten kunne i starten dække alle klubbens driftsomkostninger!
 
 
-!Rotary skabes](images/rotaryskabes2.jpg){class="shadow-longer"} 
+![Rotary skabes](images/rotaryskabes2.jpg){class="shadow-longer"} 
 De fire første Rotarianere: Gus, Silvester, Hiram og Paul
