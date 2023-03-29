@@ -1,7 +1,7 @@
 # Test
 
 <table width="1200">
-<tr bgcolor="#F6AA16">
+<tr width="1200" bgcolor="#F6AA16">
 <td>
 Rotary gul
 </td>
