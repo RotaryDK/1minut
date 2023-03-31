@@ -48,6 +48,7 @@ I anerkendelse af de udfor¬drin-ger klubberne står overfor i dag, vil Rotary s
 
 
 Målene er at:
+
 - Hjælpe klubberne med at engagere medlemmerne
 - Rette fokus på kluboplevelsen
 - Tilbyde nye muligheder for personlig og professionel udvikling
@@ -59,5 +60,6 @@ For at være på omgangshøjde med de globale tendenser skal vi løbende justere
 
 
 Målene er at:
+
 - Bygge en nysgerrig, risikovillig og innovativ kultur på alle planer
 - Strømline styringen af organisationen og sikre mangfoldighed i ledelsen
