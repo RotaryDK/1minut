@@ -39,3 +39,5 @@ Dens vigtigste elementer er
 
 Det er altså fejlagtigt eller i det mindste stærkt misvisende at karakterisere Rotary som blot et erhvervsnetværk.
 
+
+[Læs mere om dette emne](https://www.rotary.dk/system/files/inline-files/medlemsbog2020-21%20_18-05-2021.pdf){ .md-button .md-button--primary }
