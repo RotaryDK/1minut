@@ -24,4 +24,4 @@ Klik på den relevante historie for at få denne vist.
 - [1 minut om Rotary - Rotarys første år](rotarysfoersteaar.md)
 - [1 minut om Rotary - Rotationsprincippet](rotationsprincippet.md)
 - [1 minut om Rotary - Strategiske prioriteringer](strategiske.md)
-- 1 minut om Rotary - Ungdomsudveksling
+- [1 minut om Rotary - Ungdomsudveksling](ungdomsudveksling.md)
