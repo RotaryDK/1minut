@@ -39,3 +39,4 @@ Kun få af dagens medlemmer har hørt om, endsige mødt Sv. Larsen, men ved Rota
 
 
 ![Rotaryhjulet](images/ungdomsudveksling2.jpg){class="shadow-longer"} 
+Det tidligere logo for ungdomsudvekslingen.
