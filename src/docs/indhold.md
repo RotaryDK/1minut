@@ -22,6 +22,6 @@ Klik på den relevante historie for at få denne vist.
 - [1 minut om Rotary - Rotary skabes](rotaryskabes.md)
 - [1 minut om Rotary - Rotarys fem tjenestegrene](tjenestegrene.md)
 - [1 minut om Rotary - Rotarys første år](rotarysfoersteaar.md)
-- [1 minut om Rotary - Rotationsprincippet](rottionsprincippet.md)
+- [1 minut om Rotary - Rotationsprincippet](rotationsprincippet.md)
 - 1 minut om Rotary - Strategiske prioriteringer
 - 1 minut om Rotary - Ungdomsudveksling
