@@ -1,6 +1,6 @@
 # Rotationsprincippet
 
-![Rotarys første år](images/rotationsprincippet.jpg){class="shadow-longer"} 
+![Rotarys første år](images/rotaryprincip.jpg){class="shadow-longer"} 
 
 !!! note "1 minut om Rotary er..."
 
