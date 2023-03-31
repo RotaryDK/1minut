@@ -37,5 +37,5 @@ I starten anså man det for vigtigt at medlemmerne handlede indbyrdes. Chicago-k
 Denne form for <strong>vocational service</strong> blev dog opgivet fordi den mindede om selviskhed og var langt fra Pauls ideer om både at bygge bro og yde uselviske tjenester til andre. Det som senere blev fastslået i sloganet ”Service above self” som dog først blev godkendt som Rotarys officielle slogan i 1950 efter at have været i brug i 30-40 år.
 
 
-![Rotaryhjulet](images/rotaryhjulet.jpg){class="shadow-longer"} 
+![Rotaryhjulet](images/Rotaryhjulet.jpg){class="shadow-longer"} 
 Udviklingen i Rotarys medlemsbevis: Rotaryhjulet
