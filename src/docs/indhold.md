@@ -20,7 +20,7 @@ Klik på den relevante historie for at få denne vist.
 - [1 minut om Rotary - Rotary og FN](rotaryogfn.md)
 - [1 minut om Rotary - Rotary Paul Harrins](paulharris.md)
 - [1 minut om Rotary - Rotary skabes](rotaryskabes.md)
-- 1 minut om Rotary - Rotarys fem tjenestegrene
+- [1 minut om Rotary - Rotarys fem tjenestegrene](tjenestegrene.md)
 - 1 minut om Rotary - Rotarys første år
 - 1 minut om Rotary - Rotationsprincippet
 - 1 minut om Rotary - Strategiske prioriteringer
