@@ -6,7 +6,7 @@
 
     Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
     
-    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisa¬ti¬o¬nen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
+    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisationen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
     
     Serien er udarbejdet af Uddannelsesudvalget i Rotary Distrikt 1470 i 2020/21
     
@@ -48,8 +48,10 @@ I 1932 var firmaet fri af afgrunden. Tyve år senere, på grund af Firepunktspr�
 
 
 ![Herberg Taylor](images/Herbert-Taylor.jpg){class="shadow-longer"} 
+
 Foto af Herbert Taylor, fader til Firepunktsprøven. Senere også Præsident for RI. (Ukendt fotograf)
 
 
 ![4 punkt](images/4punktbillede.jpg){class="shadow-longer"} 
+
 Firepunktsprøven på originalsproget. Teksten er aldrig opdateret.
