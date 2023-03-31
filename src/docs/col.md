@@ -39,3 +39,13 @@ På de seneste COL, har The Honorable Duane Benton, en amerikansk højesteretsdo
 
 
 I klubbens dagligdag er reglerne jo sjældent til debat, men når det sker, er det ofte med en henvisning til de **gule sider**. Det skyldes at MOP’en tidligere blev publiceret på gult papir.
+
+
+
+[Læs mere om dette emne](https://my.rotary.org/en/learning-reference/about-rotary/councils){ .md-button .md-button--primary }
+
+
+[Læs mere om dette emne](https://learn.rotary.org/members/learn/course/internal/view/elearning/93/how-to-propose-enactments-and-resolutions){ .md-button .md-button--primary }
+
+
+Begge links kræver at man har login til rotary.org.
