@@ -35,4 +35,4 @@ Rotarymagasinerne er dog blevet pålagt at udkomme i både trykt og digital form
 Forsiden på Rotary Nor-den #5 2021 prydes af årets Præ-sident for RI Shekhar Mehta og frue.
 
 
-[Læs Rotary Norden - klik her](https://epaper.hansaprint.fi/rotary/rotarynorden.html target="_blank"){ .md-button .md-button--primary }
+[Læs Rotary Norden - klik her](https://epaper.hansaprint.fi/rotary/rotarynorden.html){ .md-button .md-button--primary }
