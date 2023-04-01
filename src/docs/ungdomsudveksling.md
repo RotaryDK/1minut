@@ -43,4 +43,4 @@ Kun få af dagens medlemmer har hørt om, endsige mødt Sv. Larsen, men ved Rota
 Det tidligere logo for ungdomsudvekslingen.
 
 
-[Læs mere om ungdomsudvekslingL på Rotary.org](https://www.rotary.org/en/our-programs/youth-exchanges){ .md-button .md-button--primary }
+[Læs mere om ungdomsudveksling på Rotary.org](https://www.rotary.org/en/our-programs/youth-exchanges){ .md-button .md-button--primary }
