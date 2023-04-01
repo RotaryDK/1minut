@@ -4,7 +4,7 @@
 
 !!! note "1 minut om Rotary er..."
 
-    Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
+    Alt om Rotary fortalt i små bidder, der kan læses op på et par minutter ved et Rotarymøde.
     
     Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisationen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
     
@@ -22,13 +22,14 @@ Alle medlemmer af Rotary skal ifølge Rotarys grundlov abonnere på et Rotary-ma
 
 Magasinernes opgave er at om-tale Rotarys aktiviteter i det område hvor de udkommer og bringe ”pligtstof” fra det officielle Rotary Magazine og Rotary i øvrigt. Således fører RI tilsyn med magasinernes indhold og pris. Visse af de regionale magasiner udgives af kommercielle selskaber med ansatte medarbejdere. Nogle – heriblandt Rotary Norden – drives af rotarianere i samarbejde med professionelle leverandører. 
 
-Knap halvdelen af Rotarys medlemmer modtager Rotary Magazine, der udgives på engelsk af RI. Magasinet er not-for-profit og et eventuelt overskud på driften, skal komme Rotarys aktiviteter til gavn. De resterende cirka 770.000 medlemmer abonnerer på et af de (i 2021) 33 regionale magasiner som udgives verden over, på licens fra RI og på 21 sprog. Det er altså langt fra alle medlemmer der som vi modtager det obliga¬toriske blad på deres eget sprog.
+Knap halvdelen af Rotarys medlemmer modtager Rotary Magazine, der udgives på engelsk af RI. Magasinet er not-for-profit og et eventuelt overskud på driften, skal komme Rotarys aktiviteter til gavn. De resterende cirka 770.000 medlemmer abonnerer på et af de (i 2021) 33 regionale magasiner som udgives verden over, på licens fra RI og på 21 sprog. Det er altså langt fra alle medlemmer der som vi modtager det obligatoriske blad på deres eget sprog.
 
-De fem nordiske landes distrikter har siden 1936 i et fælles selskab udgivet Rotary Norden og alle klubber i Norden har tilsluttet sig. Det er det eneste regionale ma-gasin der udkommer på **fire samtidige sprog**. Et andet udkommer på tre og syv magasiner på to sprog. I kraft af det nordiske samarbejde er Rotary Norden med et oplag på 55.000 både Europas næststørste magasin og det næst-billigste, med en medlemspris på Kr. 61 for fem årlige udgivelser.
+De fem nordiske landes distrikter har siden 1936 i et fælles selskab udgivet Rotary Norden og alle klubber i Norden har tilsluttet sig. Det er det eneste regionale ma-gasin der udkommer på **fire samtidige sprog**. Et andet udkommer på tre og syv magasiner på to sprog. I kraft af det nordiske samarbejde er Rotary Norden med et oplag på 55.000 både Europas næststørste magasin og det næstbilligste, med en medlemspris på Kr. 61 for fem årlige udgivelser.
 
-Klubber og distrikter verden over arbejder for at det skal være **slut med at tvinge** medlemmer til at abonnere på et Rotary-magasin. Senest blev der ved COL (Council on Legislation) i 2019 fremsat hele to forslag om enten at fjerne alle referencer til et magasin fra vedtægterne eller at gøre det frivilligt. Begge forslag blev nedstemt med overvældende majoritet. 
+Klubber og distrikter verden over arbejder for at det skal være **slut med at tvinge** medlemmer til at abonnere på et Rotarymagasin. Senest blev der ved COL (Council on Legislation) i 2019 fremsat hele to forslag om enten at fjerne alle referencer til et magasin fra vedtægterne eller at gøre det frivilligt. Begge forslag blev nedstemt med overvældende majoritet. 
 
 Rotarymagasinerne er dog blevet pålagt at udkomme i både trykt og digital form og give valgfrihed imellem de to. I Danmark kan vi via rotary.dk vælge om vi vil modtage Rotary Norden i papirform eller digitalt.
+
 
 ![Forsiden på Rotary Norden #5 2021 prydes af årets Præsident for RI Shekhar Mehta og frue](images/magasiner002.png){class="shadow-longer"} 
 
