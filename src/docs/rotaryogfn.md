@@ -4,9 +4,9 @@
 
 !!! note "1 minut om Rotary er..."
 
-    Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
+    Alt om Rotary fortalt i små bidder, der kan læses op på et par minutter ved et Rotarymøde.
     
-    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisa¬ti¬o¬nen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
+    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisationen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
     
     Serien er udarbejdet af Uddannelsesudvalget i Rotary Distrikt 1470 i 2020/21
     
@@ -26,14 +26,16 @@ I perioden op til konferencen havde Rotary afholdt mere end 2.000 seminarer i US
 Tætte forbindelser mellem Rotary- og FN-ledere hjælper til at styrke og binde organisationerne sammen. Specielt fhv. FN Generalsekretær Kofi Annan (1996-2006) har offentligt udtrykt sin beundring for Rotarys uddannelsesprogrammer og humanitære projekter. Den 4. november 2006 takkede Annan for Rotary's uvurderlige arbejde over for hundreder af rotarianere, der var samlet i FN's hovedkvarter i New York for at fejre Rotary-FN-dagen den 24/10. 
 
 
-I sin afskedstale fremhævede Kofi Annan Rotary som et eksempel på en privat organisation, hvis samarbejde med offentlige organisationer har hjulpet til at opnå vigtige sociale mål. Annan sagde videre, at "det vidunderlige samarbejde mellem FN-familien, USA's centre for sygdomskontrol og forebyggelse (CDC) og ikke mindst Rotary er tæt på at have udryddet polio på verdensplan!".
+I sin afskedstale fremhævede Kofi Annan Rotary som et eksempel på en privat organisation, hvis samarbejde med offentlige organisationer har hjulpet til at **opnå vigtige sociale mål**. Annan sagde videre, at "det vidunderlige samarbejde mellem FN-familien, USA's centre for sygdomskontrol og forebyggelse (CDC) og ikke mindst Rotary er tæt på at have udryddet polio på verdensplan!".
 
 
-Han sagde: "Rotary er et bevis på at folk med forskellig bag-grund kan lære at komme overens og koncentrere sig mere om ting vi har fælles end om ting som adskiller os". 
+Han sagde: "Rotary er et bevis på at folk med forskellig baggrund kan lære at komme overens og koncentrere sig mere om ting vi har fælles end om ting som adskiller os". 
 
 
-"Lige siden FN blev grundlagt har Rotary været en drømme-partner for vores organisation” sagde FN’s fhv. Generalsekretær Ban Ki Moon (2007-2016) i en tale til en gruppe rotarianere. ”I har samarbejdet med FN omkring sundhed, analfabetisme og udryddelse af fattigdom. I har arbejdet for skabelse af fred gennem jeres udvekslings-programmer. I har hjulpet mennesker med at forstå hvad FN er, gør og kan udrette.” 
+"Lige siden FN blev grundlagt har Rotary været en drømme-partner for vores organisation” sagde FN’s fhv. Generalsekretær Ban Ki Moon (2007-2016) i en tale til en gruppe rotarianere. ”I har samarbejdet med FN omkring sundhed, analfabetisme og udryddelse af fattigdom. I har arbejdet for skabelse af fred gennem jeres udvekslingsprogrammer. I har hjulpet mennesker med at forstå hvad FN er, gør og kan udrette.” 
 
 
-Ban Ki Moon og Undergeneral-sekretær Kiyotaka Akasaka, roste Rotary for at arbejde med FN’s “Millenium Development Goals” som sigter mod at ud-rydde fattigdom, sult, sygdom, analfabetisme og andre sociale og humanitære problemer i år 20015. Men der skal mere ar-bejde til, tilføjede Akasaka.
+Ban Ki Moon og Undergeneral-sekretær Kiyotaka Akasaka, roste Rotary for at arbejde med FN’s “Millenium Development Goals” som sigter mod at udrydde fattigdom, sult, sygdom, analfabetisme og andre sociale og humanitære problemer i år 20015. Men der skal mere arbejde til, tilføjede Akasaka.
 
+
+[Læs mere på rotary.org](https://www.rotary.org/en/history-rotary-and-united-nations){ .md-button .md-button--primary }
