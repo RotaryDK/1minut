@@ -4,7 +4,7 @@
 
 !!! note "1 minut om Rotary er..."
 
-    Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
+    Alt om Rotary fortalt i små bidder, der kan læses op på et par minutter ved et Rotarymøde.
     
     Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisationen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
     
@@ -26,12 +26,12 @@ Rotarys aktiviteter og mission er dikteret af vores vision for den verden vi ger
 
 
 De som har været med i Rotary gennem længere tid vil kunne skrive under på, at det at påtage sig en større opgave i Rotary eller deltage aktivt i et eller flere af Rotarys projekter og programmer, skaber forandringer i den enkeltes personlighed og i andres.
-Mens Rotary kun har haft en for-muleret vision i få år, er Rotarys mission ældre. Den beskriver nøgternt mange af de be¬gre¬ber som vi møder i dagligdagen med Rotary. En slags varedekla-ra¬tion på Rotary, kan man vel sige. 
+Mens Rotary kun har haft en formuleret vision i få år, er Rotarys mission ældre. Den beskriver nøgternt mange af de begreber som vi møder i dagligdagen med Rotary. En slags varedeklaration på Rotary, kan man vel sige. 
 
 
 !!! Quote "Rotarys mission"
 
-    Vi tjener andre, fremmer hæderlighed, omverdens-forståelse, god vilje og fred gennem vort fællesskab af lederskikkelser og specialister fra erhvervs- og samfundsliv.
+    Vi tjener andre, fremmer hæderlighed, omverdensforståelse, god vilje og fred gennem vort fællesskab af lederskikkelser og specialister fra erhvervs- og samfundsliv.
 
 Dens vigtigste elementer er
 - At tjene andre som vel er det tætteste man kan komme Service på dansk og det er ledestjernen i alt hvad vi gør. Hæderlighed og fællesskab er nogle af vore kerneværdier. Forsøget på at forstå vores omverden kommer til udtryk både i Rotarys måde at inddrage det globale element i arbejdet på, lige som vore programmer for børn og voksne taler til det. God vilje og fred fremmes gennem det at foregå med det gode eksempel og modarbejde konflikter overalt.
