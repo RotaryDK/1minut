@@ -50,5 +50,5 @@ Rotarys tjenester skal leveres inden for fem <strong>indsatsområder</strong>, s
     <center>Ud over Rotarys hovedmotto<br> 
     <strong>Service Above Self</strong><br>
     har Rotary også mottoet <br>
-    One profits most who serves best<br>
+    <strong>One profits most who serves best<br></strong>
     der tydeligt illustrerer hvorfor det er vigtigt for alle at være tjenstvillig og vise samfundssind.</center><br>
