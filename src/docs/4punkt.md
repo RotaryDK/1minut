@@ -57,10 +57,10 @@ Foto af Herbert Taylor, fader til Firepunktsprøven. Senere også Præsident for
 Firepunktsprøven på originalsproget. Teksten er aldrig opdateret.
 
 
-[Læs mere om historien om 4 punkts prøven](https://rotary5630.org/history-of-the-four-way-test target=_blank){ .md-button .md-button--primary }
+[Læs mere om historien om 4 punkts prøven](https://rotary5630.org/history-of-the-four-way-test/){ .md-button .md-button--primary }
 
 
-[Læs 4 punkts prøven på Wikipedia](https://en.wikipedia.org/wiki/The_Four-Way_Test target=_blank){ .md-button .md-button--primary }
+[Læs 4 punkts prøven på Wikipedia](https://en.wikipedia.org/wiki/The_Four-Way_Test){ .md-button .md-button--primary }
 
 
 Søg og så efter FOUR WAY TEST på Youtube!
