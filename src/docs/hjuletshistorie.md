@@ -4,9 +4,9 @@
 
 !!! note "1 minut om Rotary er..."
 
-    Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
+    Alt om Rotary fortalt i små bidder, der kan læses op på et par minutter ved et Rotarymøde.
     
-    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisa¬ti¬o¬nen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
+    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisationen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
     
     Serien er udarbejdet af Uddannelsesudvalget i Rotary Distrikt 1470 i 2020/21
     
@@ -17,10 +17,10 @@
 <a href=https://1minut.rotary.dk/pdf-versioner/1_minut_om_Rotary_Hjulets_historie.pdf target=_blank>PDF version kan downloades ved at klikke her</a>
 
 
-Hjulet har været et symbol på Rotary siden de tidligste år. Det første design blev lavet i 1905 af Montague Bear der var medlem i Chicago-klubben. Han tegnede et enkelt vognhjul og nogle linjer, der skulle sige ”støv og bevægelse”. Hjulet skulle efter opdraget illustrere ”Civilisation, fremdrift og en sam¬fundsnyttig indsats…”. 
+Hjulet har været et symbol på Rotary siden de tidligste år. Det første design blev lavet i 1905 af Montague Bear der var medlem i Chicago-klubben. Han tegnede et enkelt vognhjul og nogle linjer, der skulle sige ”støv og bevægelse”. Hjulet skulle efter opdraget illustrere ”Civilisation, fremdrift og en samfundsnyttig indsats…”. 
 
 
-I 1922 blev det besluttet at alle Rotaryklubber skulle enes om et fælles design: Det eksklusive emblem for alle rotarianere. Et tandhjul med 24 tænder og seks eger blev da adopteret af hele organisationen. Tænderne repræsenterer, at der er arbejde at gøre. Egerne den indre retning for vores samfundstjeneste sådan som medlemskabet kommer til udtryk gennem klassifikationsprincippet. Ligeledes repræsenterer egerne også en udadrettet spredning af Rotarys idealer og Firepunkts¬prø-ven til samfundet omkring os via de erhverv og poster som medlem¬merne beklæder.
+I 1922 blev det besluttet at alle Rotaryklubber skulle enes om et fælles design: Det eksklusive emblem for alle rotarianere. Et tandhjul med 24 tænder og seks eger blev da adopteret af hele organisationen. Tænderne repræsenterer, at der er arbejde at gøre. Egerne den indre retning for vores samfundstjeneste sådan som medlemskabet kommer til udtryk gennem klassifikationsprincippet. Ligeledes repræsenterer egerne også en udadrettet spredning af Rotarys idealer og Firepunktsprøven til samfundet omkring os via de erhverv og poster som medlemmerne beklæder.
 
 
 En gruppe ingeniører blandt medlemmerne gjorde støj over at dét hjul da ikke ville virke i praksis! Det manglede jo notgang; den lille udfræsning i det inderste hul, der kan overføre kraften fra f.eks. en aksel til hjulet. Den blev så fræset ud i 1923 og designet justeret så illustrationen af at ”..det var en arbejder og ikke en lediggænger der var tale om..” blev tydelig. 
