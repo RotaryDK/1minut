@@ -30,9 +30,9 @@ Klubber og distrikter verden over arbejder for at det skal være **slut med at t
 
 Rotarymagasinerne er dog blevet pålagt at udkomme i både trykt og digital form og give valgfrihed imellem de to. I Danmark kan vi via rotary.dk vælge om vi vil modtage Rotary Norden i papirform eller digitalt.
 
-![Forsiden på Rotary Norden #5 2021 prydes af årets Præ-sident for RI Shekhar Mehta og frue](images/magasiner002.png){class="shadow-longer"} 
+![Forsiden på Rotary Norden #5 2021 prydes af årets Præsident for RI Shekhar Mehta og frue](images/magasiner002.png){class="shadow-longer"} 
 
-Forsiden på Rotary Nor-den #5 2021 prydes af årets Præ-sident for RI Shekhar Mehta og frue.
+Forsiden på Rotary Nor-den #5 2021 prydes af årets Præsident for RI Shekhar Mehta og frue.
 
 
 [Læs Rotary Norden - klik her](https://epaper.hansaprint.fi/rotary/rotarynorden.html){ .md-button .md-button--primary }
