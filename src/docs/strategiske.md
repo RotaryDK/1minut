@@ -4,9 +4,9 @@
 
 !!! note "1 minut om Rotary er..."
 
-    Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
+    Alt om Rotary fortalt i små bidder, der kan læses op på et par minutter ved et Rotarymøde.
     
-    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisa¬ti¬o¬nen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
+    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisationen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
     
     Serien er udarbejdet af Uddannelsesudvalget i Rotary Distrikt 1470 i 2020/21
     
@@ -24,7 +24,7 @@ Rotary stræber efter at forbedre menneskers livskvalitet. Frivillige investerer
 
 Målene er at:
 - Udrydde polio og få anerkendelse for det
-- Fokusere vore pro¬gram¬mer og tilbud endnu mere
+- Fokusere vore programmer og tilbud endnu mere
 - Forbedre vores evne til at gøre en forskel og måle på den
 
 <strong>Nå ud til nye målgrupper</strong>
@@ -44,7 +44,7 @@ Målene er at:
 
 
 <strong>Øge medlemmers engagement</strong>
-I anerkendelse af de udfor¬drin-ger klubberne står overfor i dag, vil Rotary støtte dem i at kunne levere en kluboplevelse som får medlemmerne til at blive, og engagere sig mere. Når klubber fokuserer på den gode kluboplevelse, bliver medlemmerne mere tilbøjelige til at engagere sig i og for fællesskabet. 
+I anerkendelse af de udfordringer klubberne står overfor i dag, vil Rotary støtte dem i at kunne levere en kluboplevelse som får medlemmerne til at blive, og engagere sig mere. Når klubber fokuserer på den gode kluboplevelse, bliver medlemmerne mere tilbøjelige til at engagere sig i og for fællesskabet. 
 
 
 Målene er at:
