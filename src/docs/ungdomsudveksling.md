@@ -4,9 +4,9 @@
 
 !!! note "1 minut om Rotary er..."
 
-    Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
+    Alt om Rotary fortalt i små bidder, der kan læses op på et par minutter ved et Rotarymøde.
     
-    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisa¬ti¬o¬nen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
+    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisationen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
     
     Serien er udarbejdet af Uddannelsesudvalget i Rotary Distrikt 1470 i 2020/21
     
@@ -23,7 +23,7 @@ Allerede i 1929 da Rotary kun var otte år i Danmark, diskuterede man i Københa
 Nogenlunde samtidigt begyndte <strong>Aage Rasmussen, Københavns Rotary Klub</strong> at sende unge ud i Europa. Ofte kun én vej og i kortere perioder, men i 1955 var man alligevel oppe på 40 unge. Andre klubber fulgte trop og arrangerede sommerlejre rundt om i landet. 
 
 
-Arbejdet blev efterhånden omfattende og i 1967 overlod Aage noget af arbejdet til <strong>Rektor Svend Larsen fra Stenhus Kostskole</strong>. Lejrene hvor deltagerne fik ophold i rotarianeres hjem gav ham ideen til longterm program¬met og i 1969/70 blev fem unge sendt til USA. Det bredte sig til andre verdensdele og i dag deltager mere end 30 lande i Youth Exchange programmet. 
+Arbejdet blev efterhånden omfattende og i 1967 overlod Aage noget af arbejdet til <strong>Rektor Svend Larsen fra Stenhus Kostskole</strong>. Lejrene hvor deltagerne fik ophold i rotarianeres hjem gav ham ideen til longterm programmet og i 1969/70 blev fem unge sendt til USA. Det bredte sig til andre verdensdele og i dag deltager mere end 30 lande i Youth Exchange programmet. 
 
 
 <strong>Sv. Larsen var primus motor</strong> og kan mere end nogen anden tage æren for det program vi kender nu. Efter 15 år overlod han i 1984 arbejdet til Arnold Nørregaard, en ildsjæl der fortsatte helt i Svend Larsens ånd. Han holdt ved i 20 år, inden han blev afløst.
@@ -39,4 +39,8 @@ Kun få af dagens medlemmer har hørt om, endsige mødt Sv. Larsen, men ved Rota
 
 
 ![Rotaryhjulet](images/ungdomsudveksling2.jpg){class="shadow-longer"} 
+
 Det tidligere logo for ungdomsudvekslingen.
+
+
+[Læs mere om ungdomsudvekslingL på Rotary.org](https://www.rotary.org/en/our-programs/youth-exchanges){ .md-button .md-button--primary }
