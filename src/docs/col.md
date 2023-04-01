@@ -4,7 +4,7 @@
 
 !!! note "1 minut om Rotary er..."
 
-    Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
+    Alt om Rotary fortalt i små bidder, der kan læses op på et par minutter ved et Rotarymøde.
     
     Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisationen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
     
@@ -42,7 +42,7 @@ I klubbens dagligdag er reglerne jo sjældent til debat, men når det sker, er d
 
 
 
-[Læs mere om dette emne](https://my.rotary.org/en/learning-reference/about-rotary/councils){ .md-button .md-button--primary }
+[Læs mere om Rotarys Learning Center](https://my.rotary.org/en/learning-reference/about-rotary/councils){ .md-button .md-button--primary }
 
 
 [Læs mere om dette emne](https://learn.rotary.org/members/learn/course/internal/view/elearning/93/how-to-propose-enactments-and-resolutions){ .md-button .md-button--primary }
