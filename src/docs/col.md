@@ -43,9 +43,3 @@ I klubbens dagligdag er reglerne jo sjældent til debat, men når det sker, er d
 
 
 [Læs mere om COL på Rotary.org](https://my.rotary.org/en/learning-reference/about-rotary/councils){ .md-button .md-button--primary }
-
-
-[Læs mere om Rotarys Learning Center](https://learn.rotary.org/members/learn/course/internal/view/elearning/93/how-to-propose-enactments-and-resolutions){ .md-button .md-button--primary }
-
-
-Begge links kræver at man har login til rotary.org.
