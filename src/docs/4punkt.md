@@ -4,7 +4,7 @@
 
 !!! note "1 minut om Rotary er..."
 
-    Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
+    Alt om Rotary fortalt i små bidder, der kan læses op på et par minutter ved et Rotarymøde.
     
     Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisationen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
     
@@ -20,7 +20,7 @@
 Tidligt i 1930’erne var firmaet Club Aluminum Products med 250 ansatte truet af konkurs. Herbert Taylor, der var direktør, rotarianer og en god kristen, måtte handle. Han lagde ud med at se på firmaets adfærd og værdier. Han forklarede senere om planen: 
 
 
-“Min første opgave var at udstikke nogle retningslinjer, der var så noble som Gud ville ønske at de var i al virksomhed! Hvis vore ansatte kan tænke ret, vil de også handle ret. Vi behøvede en simpel vejledning i den rette adfærd. En slags etisk måle¬stok som vi kunne lære udenad og an-vende på hvad vi tænkte, sagde og gjorde.”
+“Min første opgave var at udstikke nogle retningslinjer, der var så noble som Gud ville ønske at de var i al virksomhed! Hvis vore ansatte kan tænke ret, vil de også handle ret. Vi behøvede en simpel vejledning i den rette adfærd. En slags etisk målestok som vi kunne lære udenad og anvende på hvad vi tænkte, sagde og gjorde.”
 
 
 Taylor fortsatte: 
@@ -55,3 +55,12 @@ Foto af Herbert Taylor, fader til Firepunktsprøven. Senere også Præsident for
 ![4 punkt](images/4punktbillede.jpg){class="shadow-longer"} 
 
 Firepunktsprøven på originalsproget. Teksten er aldrig opdateret.
+
+
+[Læs mere om historien om 4 punkts prøven](https://rotary5630.org/history-of-the-four-way-test/){ .md-button .md-button--primary }
+
+
+[Læs 4 punkts prøven på Wikipedia](https://en.wikipedia.org/wiki/The_Four-Way_Test){ .md-button .md-button--primary }
+
+
+Søg og så efter FOUR WAY TEST på Youtube!
