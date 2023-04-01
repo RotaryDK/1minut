@@ -4,9 +4,9 @@
 
 !!! note "1 minut om Rotary er..."
 
-    Alt om Rotary fortalt i små bidder, der kan læses op på et par mi-nutter ved et Rotary-møde.
+    Alt om Rotary fortalt i små bidder, der kan læses op på et par minutter ved et Rotarymøde.
     
-    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisa¬ti¬o¬nen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
+    Historierne tilstræber at komme hele vejen rundt om Rotary: vores historie, Rotary  basics, organisationen, The Rotary Foundation, Rotarys programmer, partnere og vigtige begivenheder.
     
     Serien er udarbejdet af Uddannelsesudvalget i Rotary Distrikt 1470 i 2020/21
     
